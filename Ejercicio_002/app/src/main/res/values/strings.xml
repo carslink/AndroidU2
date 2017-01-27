@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clase Persona</string>
+    <string name="nombre">Nombre de la persona</string>
+    <string name="boton1">Mostrar Datos de la Persona</string>
+    <string name="resultado">Datos de la Persona</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombre">Hombre</string>
+    <string name="ejercicio">Realiza Ejercicio Diariamente</string>
+    <string name="estatura">Estatura en Metros</string>
+    <string name="peso">Peso en Kilogramos</string>
+    <string name="sobrepeso">Perder peso es ante todo una cuestión de salud.</string>
+    <string name="bajopeso">La dificultad para subir de peso es un problema que afecta a muchísima gente. </string>
+    <string name="normal">Tu peso es normal sigue manteniendolo recuerda buscar siempre el bien de tu salud</string>
+</resources>

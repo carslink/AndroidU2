@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Class Person</string>
+    <string name="nombre">Name of individual</string>
+    <string name="boton1">Show Person Data</string>
+    <string name="resultado">Show Person Data</string>
+    <string name="mujer">Woman</string>
+    <string name="hombre">Man</string>
+    <string name="ejercicio">Exercise Daily</string>
+    <string name="estatura">Height in Meters</string>
+    <string name="peso">Weight in Kilograms</string>
+    <string name="sobrepeso">Losing weight is a health issue.</string>
+    <string name="bajopeso">The difficulty to gain weight is a problem that affects a lot of people.</string>
+    <string name="normal">Your weight is normal, keep on remembering always look for the good of your health</string>
+</resources>
